@@ -1,8 +1,12 @@
-# servo based Payload mechanism in UAV
+# Servo-Based Payload Mechanism in UAV
 
-A carbon-fibre drone prototype developed around a payload box with a **single-servo actuation mechanism**. The payload box was designed around an approximately **200 g load**. When the servo opens the box mechanism, the payload is intended to drop under gravity.
+A carbon-fibre drone prototype developed around a payload box with a **single-servo actuation mechanism**. The prototype carried approximately **200 g in flight**, and the **servo release was tested successfully**. Opening the payload box allows the load to drop under gravity.
 
 ![Payload drone CAD view](media/images/photo-2025-05-23-22-13-07.jpg)
+
+## My contribution — Semester 7
+
+I worked on the servo release mechanism and the drone build. Our team built the carbon-fibre prototype and tested its payload-carrying and release functions.
 
 ## Project design
 
@@ -10,15 +14,15 @@ The central feature is the servo-operated payload box. The servo actuates the op
 
 ## Build progress and result
 
-Our team successfully built the carbon-fibre drone prototype. The payload-release operation described here is the intended mechanism; a completed airborne release test and a measured 200 g carrying test still need confirmation.
+Our team successfully built the carbon-fibre drone prototype. A carrying flight with approximately 200 g and operation of the servo release were both tested successfully. Drop accuracy and repeated-release reliability were not quantified.
 
 | Item | Details |
 | --- | --- |
 | Airframe | Carbon-fibre drone prototype |
-| Payload design figure | Approximately 200 g |
+| Tested payload | Approximately 200 g |
 | Payload mechanism | One servo actuating a payload box |
 | Release principle | Gravity drop after opening |
-| Confirmed result | Physical drone prototype built |
+| Confirmed result | Physical prototype built; 200 g carrying flight and servo release tested |
 
 ## Design and prototype views
 
