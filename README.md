@@ -1,4 +1,4 @@
-# Carbon-Fibre Payload Drone
+# servo based Payload mechanism in UAV
 
 A carbon-fibre drone prototype developed around a payload box with a **single-servo actuation mechanism**. The payload box was designed around an approximately **200 g load**. When the servo opens the box mechanism, the payload is intended to drop under gravity.
 
